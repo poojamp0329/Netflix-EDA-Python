@@ -48,10 +48,3 @@ The notebook generates data-driven findings after the dataset is loaded and clea
     `-- ratings_distribution.png
 ```
 
-### How to Run
-
-1. Download `netflix_titles.csv` from Kaggle.
-2. Place it in the project root or in a `data/` folder.
-3. Install dependencies with `pip install -r requirements.txt`.
-4. Open `Netflix_EDA.ipynb`.
-5. Run all cells from top to bottom.
